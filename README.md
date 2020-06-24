@@ -8,4 +8,5 @@ The first version of it, which was completed by myself, suggested 3 interacting 
 ## About the code 
 This repository is the implementation of the version 1 experiment which allows multiple users to interact with some artificially imposed constraints using the internet. There are 7 experiment scenes built in total.
 
-The AR environment was developed using the Unity game engine.
+The AR environment was developed using the Unity game engine and Meta AR headset.
+
